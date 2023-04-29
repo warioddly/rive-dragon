@@ -1,0 +1,7 @@
+{
+  "name": "rive-dragon",
+  "version": "1.0.0",
+  "dependencies": {
+    "@rive-app/canvas": "^1.1.4"
+  }
+}
